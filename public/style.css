@@ -14,12 +14,12 @@ body {
 }
 .container {
   padding: 75px;
-  width: 50%;
+  width: 60%;
   height: 40%;
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 550px;
+  max-width: 680px;
 }
 .card {
   transform-style: preserve-3d;
