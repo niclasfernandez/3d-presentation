@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  zoom: 98%;
 }
 
 body {
@@ -20,6 +19,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  max-width: 550px;
 }
 .card {
   transform-style: preserve-3d;
