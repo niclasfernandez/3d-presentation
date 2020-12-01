@@ -32,10 +32,12 @@ body {
 }
 
 .sneaker {
+  padding-top: 30px;
   min-height: 32vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding-bottom: 40px;
 }
 .sneaker img {
   width: 20rem;
