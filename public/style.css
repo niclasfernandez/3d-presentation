@@ -8,7 +8,7 @@
 body {
   transform-style: preserve-3d;
   font-family: "Poppins", sans-serif;
-  min-height: 50vh;
+  min-height: 60vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,7 +16,7 @@ body {
 }
 .container {
   transform-style: preserve-3d;
-  padding: 75px;
+  padding: 50px;
   width: 60%;
   height: 40%;
   display: flex;
@@ -27,25 +27,24 @@ body {
 .card {
   transform-style: preserve-3d;
   /* min-height: 80vh; */
-  width: 35vh;
-  height: 70vh;
+  width: 45vh;
+  height: 87vh;
   border-radius: 30px;
-  padding: 1.5vh 5vh;
+  padding: 0.1vh 5vh;
   box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
 }
 
 .sneaker {
   transform-style: preserve-3d;
-  padding-top: 20px;
-  min-height: 32vh;
+  padding-top: 10px;
+  min-height: 42vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-bottom: 40px;
 }
 .sneaker img {
   transform-style: preserve-3d;
-  width: 25vh;
+  width: 30vh;
   z-index: 2;
   transition: all 0.75s ease-out;
   border-radius: 10%;
@@ -53,13 +52,13 @@ body {
 
 .info h1 {
   transform-style: preserve-3d;
-  font-size: 3vh;
+  font-size: 4vh;
   transition: all 0.75s ease-out;
   text-align: center;
 }
 .info h3 {
   transform-style: preserve-3d;
-  font-size: 1.3vh;
+  font-size: 2vh;
   padding: 2vh 0vh;
   color: #585858;
   font-weight: lighter;
